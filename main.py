@@ -30,7 +30,7 @@ app.add_middleware(
 )
  
 # ── Auth ───────────────────────────────────────────────────────────────────────
-API_KEY      = "h35WBLaWCovUgrFCIY4fYTtxwt3bz9EH"
+API_KEY      = "aeebb318825a950831d17bfd32037e17"
 API_KEY_NAME = "access_token"
 api_key_header = APIKeyHeader(name=API_KEY_NAME, auto_error=False)
  
